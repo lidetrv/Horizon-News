@@ -1,0 +1,7 @@
+{
+  "name": "Horizon News AI",
+  "description": "A high-performance news application featuring AI-powered summaries, trending insights, and a seamless reading experience across devices.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
